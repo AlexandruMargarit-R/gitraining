@@ -1,0 +1,16 @@
+git init --
+git add .
+git add <filename1> <filename2>...
+git commit -m "descriere ce am schimbat" 
+git checkout -b <branchname>
+git checkout <branchname>
+git merge <branchname>
+git clone <url>
+git status
+git fetch 
+.gitignore -- mereu de facut fisier cu .gitignore si de urcat cu git add . si git commit 
+git restore --staged <filename> -- unstaged filename 
+git log
+git reset --hard <commit_id>
+git revert <commit_id>
+git push 
